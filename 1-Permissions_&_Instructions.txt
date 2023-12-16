@@ -2,7 +2,7 @@
 ----####---COPYRIGHT AND PERMISSIONS----####---
 ----####--------------------------------####---
 
-1) Copyright 2021 by Mário Rui Arruda
+1) Copyright 2023 by Mário Rui Arruda
 all rights reserved. No part of this subroutine may be reproduced or
 use in any manner without written permission of the copyright owner.
 
